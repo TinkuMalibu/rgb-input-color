@@ -1,4 +1,4 @@
 # rgb-input-color
 
-The user can select a color using a RBG picker. 
+The user can select a color using an RBG picker. 
 This small program uses javascript 
